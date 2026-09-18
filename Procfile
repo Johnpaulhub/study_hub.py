@@ -1,1 +1,1 @@
-web: gunicorn study_hub:app
+gunicorn study_hub:app
